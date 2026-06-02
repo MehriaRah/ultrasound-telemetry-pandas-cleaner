@@ -40,3 +40,8 @@ void loop() {
   Serial.println(distance);             // Stream raw data package
   delay(50);                            // 20Hz high-frequency sampling rate
 }
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/652149de-8e4e-4fca-b5a1-de290b3c92d1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f703e845-1f94-41a5-a2c3-96086dda1014" />
+
